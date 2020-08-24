@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **spartanhaden/spartanhaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="Hong Kong is quite pretty" src="https://github.com/spartanhaden/spartanhaden/blob/master/HK.jpg?raw=true" width="100%">
